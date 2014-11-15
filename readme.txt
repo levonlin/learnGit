@@ -1,3 +1,3 @@
 Hello git!
 <<<<<<< HEAD
-git is wonderful&
+git is wonderfulhahaha
